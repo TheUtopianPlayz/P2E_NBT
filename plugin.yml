@@ -1,0 +1,6 @@
+---
+name: P2E_NBT
+version: 0.0.1
+main: TheUtopian\p2e_nbt\P2E_NBT
+api: 3.11.0
+...
