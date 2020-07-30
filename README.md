@@ -13,7 +13,7 @@ Permission:
 feel free to open a issue if you have any problems or want to leave a suggestion.
 you can also find me on discord `@TheUtopianPlayz#0001`
 
-or join my [Discord Server](https://discord.portal2elysium.com/)
+or join my [Discord Server](https://discord.com/invite/6mXNV7p)
 
 ## Portal2Elysium
 You can join my Prisons server @ ***__play.portal2elysium.com | 19132__***
